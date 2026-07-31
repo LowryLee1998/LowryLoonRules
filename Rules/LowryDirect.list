@@ -1,0 +1,23 @@
+# Lowry Direct Rules
+# Updated: 2026-07-31
+
+DOMAIN-KEYWORD,yangtuoedu
+DOMAIN-KEYWORD,ytaxx
+DOMAIN-KEYWORD,xiaofujia
+DOMAIN-KEYWORD,wenchaoedu
+DOMAIN-KEYWORD,xueyinonline
+DOMAIN-KEYWORD,winstaryc
+DOMAIN-KEYWORD,aptvapp
+DOMAIN-KEYWORD,qipiao
+DOMAIN-KEYWORD,rt-mart
+DOMAIN-KEYWORD,tongkask
+DOMAIN-KEYWORD,rxcrs
+DOMAIN-KEYWORD,rxlpzj
+DOMAIN-KEYWORD,wxlyykt
+DOMAIN-KEYWORD,atwuxi
+DOMAIN,api.sunbelife.com
+DOMAIN-KEYWORD,aotuyuzhou
+DOMAIN-KEYWORD,wxjsxy
+DOMAIN-SUFFIX,appstorrent.ru
+IP-CIDR,101.35.240.114/32,no-resolve
+IP-CIDR,148.135.93.213/32,no-resolve
