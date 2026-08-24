@@ -1,6 +1,7 @@
 # Lowry Direct Rules
 # Updated: 2026-08-10
 
+DOMAIN-KEYWORD,xykdata
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-KEYWORD,yangtuoedu
