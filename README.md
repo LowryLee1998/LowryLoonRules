@@ -5,3 +5,6 @@ https://raw.githubusercontent.com/LowryLee1998/LowryLoonRules/main/Rules/LowryDi
 
 LowryProxy.list
 https://raw.githubusercontent.com/LowryLee1998/LowryLoonRules/main/Rules/LowryProxy.list
+
+LowrySiriAI
+https://raw.githubusercontent.com/LowryLee1998/LowryLoonRules/main/Rules/LowrySiriAI
